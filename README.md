@@ -3,5 +3,5 @@
 </br>
   `shift the item backwards until you either hit the beginning of the array or the item is less than the current item `
 </br>
-![](https://en.wikipedia.org/wiki/File:Insertion_sort.gif)
+![ ](https://en.wikipedia.org/wiki/File:Insertion_sort.gif)
 
